@@ -1,0 +1,42 @@
+.sobre-mim {
+    background: #000000;
+}
+.container {
+    padding-right: 1rem;
+    padding-left: 1rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    
+}
+.sobre-alinhamento {
+    margin-top:30rem;
+    margin-bottom: 8rem;
+    margin-right: 8rem;
+    margin-left: 18rem;
+    text-align: center; 
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    box-sizing: border-box;
+    border-radius: 30px;
+    box-shadow: 0 0 10px #FF2D2D90;
+    width: 80rem; 
+}
+.sobre-alinhamento:hover {
+    transform: scale(1.03);
+    box-shadow: 0 0 30px #FF0000;
+}
+
+.titulo-sobremim {
+    color: #FF0000;
+}
+
+.titulo-sobremim {
+    font-size: 70px;
+    color: #FFFFFF;
+}
+
+.texto-sobremim {
+    font-size: 30px;
+    padding: 2rem;
+    color: #FFFFFF;
+}
