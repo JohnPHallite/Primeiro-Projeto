@@ -9,17 +9,17 @@
     
 }
 .sobre-alinhamento {
-    margin-top:30rem;
+    margin-top:200px ;
     margin-bottom: 8rem;
     margin-right: 8rem;
-    margin-left: 18rem;
+    margin-left: 180px;
     text-align: center; 
     padding-top: 1rem;
     padding-bottom: 1rem;
     box-sizing: border-box;
     border-radius: 30px;
     box-shadow: 0 0 10px #FF2D2D90;
-    width: 80rem; 
+    width: 80%; 
 }
 .sobre-alinhamento:hover {
     transform: scale(1.03);
