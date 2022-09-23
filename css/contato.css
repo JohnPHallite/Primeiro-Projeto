@@ -30,6 +30,7 @@ section {
    
    .linkedin:hover {
        transform: scale(1.03);
+       color: #6d68f4;
    }
    
    .whatsapp {
@@ -40,6 +41,7 @@ section {
    
    .whatsapp:hover {
        transform: scale(1.03);
+       color: #6d68f4;
    }
 
 @media screen and (min-width: 768px) {
@@ -55,10 +57,21 @@ section {
         padding-right: 250px;
         display: inline-block;
     }
+
+    .linkedin:hover {
+        transform: scale(1.03);
+        color: #6d68f4;
+    }
+
     .whatsapp {
         font-size: 25px;
         margin-left: 40px;
     }
+    .whatsapp:hover {
+        transform: scale(1.03);
+        color: #6d68f4;
+    }
+    
 }
    
 @media screen and (min-width: 1024px){
@@ -95,15 +108,18 @@ section {
 
 .linkedin:hover {
     transform: scale(1.03);
+    color: #6d68f4;
 }
 
 .whatsapp {
     display: inline-block;
     font-size: 30px;
     padding-left: 4rem;
+    
 }
 
 .whatsapp:hover {
     transform: scale(1.03);
+    color: #6d68f4;
 }
 }
