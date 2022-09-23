@@ -102,7 +102,7 @@ home {
 
 .alinhamento h1 {   
     padding-bottom: 2rem;
-    font-size: 90px;
+    font-size: 70px;
     margin-top: -8rem;
 }
 
@@ -128,8 +128,8 @@ home {
 
 .foto {
     box-sizing: border-box;
-    width: 30rem;
-    margin: 1rem 1rem 0 0;
+    width: -20rem;
+    margin-left: 90px;
     border-radius: 20%;
     box-shadow: 0 0 25px #FF2D2D90;
 }
